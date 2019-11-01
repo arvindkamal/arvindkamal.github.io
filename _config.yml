@@ -8,7 +8,7 @@ baseurl: "/"
 # about 5 elements are recomended
 #github_username:  dashingcode
 #codepen_username: your_codepen_username_goes_here
-facebook_username: arvindkaaml
+facebook_username: arvindkamal
 #vk_username: your_vk_username_goes_here
 twitter_username: thearvindkamal
 #google_plus_username: your_google_plus_username_goes_here
@@ -30,7 +30,7 @@ email: arvindkamal@hotmail.com
 
 
 avatar: yes
-avatar_img_path: "imgs/profile.jpg""
+avatar_img_path: "imgs/rsz_profile.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
 #avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
@@ -42,7 +42,7 @@ front_img_path: "imgs/bg.jpg"
 
 
 favicon_img: yes
-favicon_img_path: "imgs/favicon.ico"
+favicon_img_path: "imgs/favicon.jpg"
 #favicon_img_path: "https://external.url/favicon.ico"
 
 
