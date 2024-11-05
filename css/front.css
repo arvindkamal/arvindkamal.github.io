@@ -1,13 +1,15 @@
-body {
+#body {
     font-family: 'Open Sans',Helvetica,Arial,sans-serif;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: black;
     height: 100%;
+    overflow: hidden;
     top: 0;
     bottom: 0;
     right: 0;
     left: 0;
     margin: 0;
 }
+
 #fullscreen {
     background-size: cover; /* Ensures the image covers the entire area */
     background-position: center; /* Centers the image */
