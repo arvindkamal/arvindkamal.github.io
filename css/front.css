@@ -10,18 +10,8 @@
     margin: 0;
 }
 
-#fullscreen {
-    background-size: cover; /* Ensures the image covers the entire area */
-    background-position: center; /* Centers the image */
-    min-height: 100vh; /* Minimum height for full viewport coverage */
-    width: 100%; /* Full width */
-    position: fixed; /* Fixes the background to the viewport */
-    top: 0;
-    left: 0;
-    z-index: 0; /* Ensure it appears behind other content */
-}
 #background {
-    background-color: black;
+    background-color: #FFCDD2;
     /*background-image: url('{{ site.front_img_path }}');*/
     background-size: cover; /* Cover the entire area */
     background-position: center; /* Center the image */
