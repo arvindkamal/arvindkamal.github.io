@@ -41,12 +41,25 @@ h3 {
     padding-bottom: 20px;
     font-weight: thin;
 }
-.content {
+/*.content {
     padding-top: 100px;
     padding-bottom: 40px;
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
     z-index: 1;
+}*/
+.content {
+    position: fixed;                    /* Fixes the element to the viewport */
+    top: 0;                             /* Aligns the top of the element with the top of the viewport */
+    left: 0;                            /* Aligns the left side of the element with the left of the viewport */
+    width: 100vw;                       /* Sets the width to 100% of the viewport width */
+    height: 100vh;                      /* Sets the height to 100% of the viewport height */
+    padding-top: 100px;                 /* Adds 100 pixels of padding at the top */
+    padding-bottom: 40px;               /* Adds 40 pixels of padding at the bottom */
+    background-color: #9A031E;
+    text-align: center;                 /* Centers the text and inline content */
+    z-index: 1;                         /* Stacking order */
+    overflow: auto;                     /* Enables scrolling if content overflows */
 }
 ul {
     list-style: none;
