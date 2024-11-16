@@ -7,7 +7,6 @@
 }
 
 #background {
-    background-color: #FFCDD2;
     background-size: cover;
     background-position: center;
     position: fixed;
@@ -21,12 +20,12 @@
 /* Full-screen content area */
 .content {
     position: fixed;
-    top: 0;
+    background-color: #001B79;
+    top: 50px;
     left: 0;
     width: 100vw;
     height: 100vh;
     padding: 20px;
-    background-color: rgba(154, 3, 30, 0.8); /* Slightly transparent for a modern look */
     text-align: center;
     z-index: 1;
     overflow-y: auto;
