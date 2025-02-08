@@ -1,53 +1,45 @@
 # Site settings
-name: Arvind Kamal
-description: "Software Engineer @ <a href='https://www.jumptrading.com'>Jump Trading</a>"
-url: "https://arvindkamal.com"
 title: Arvind Kamal
-future: true
-#baseurl: "/"
+description: Arvind Kamal
+baseurl: "" # "/will-jekyll-template" - the subpath of your site, e.g. /blog
+url: "https://willianjusten.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# Delete the lines you don't need
-# about 5 elements are recomended
-#github_username:  dashingcode
-#codepen_username: your_codepen_username_goes_here
-facebook_username: arvindkamal
-#vk_username: your_vk_username_goes_here
+# User settings
+username: Arvind Kamal
+user_description: Engineer. Photographer. Shooter.
+user_title: Engineer. Photographer. Shooter.
+email: arvindkamal97@gmail.com
 twitter_username: thearvindkamal
-#google_plus_username: your_google_plus_username_goes_here
+dpost_username: arvindkamal
 linkedin_username: arkamal
-#vine_username:  your_vine_username_goes_here
-instagram_username:  arvindkamal
-#flickr_username: your_flickr_username_goes_here
-#steam_username: your_steam_username_goes_here
-#soundcloud_username:  your_soundcloud_username_goes_here
-#stack_of_username: your_stack_overflow_account_id_number_goes_here
-#reddit_username: your_reddit_username_goes_here
-medium_username:  arvindkamal
-#tumblr_username: your_tumblr_username_goes_here
-#weibo_username: your_weibo_username_goes_here
-#lastfm_username: your_lastfm_username_goes_here
-#blog_url: "/blog"
-email: arvindkamal@hotmail.com
-#public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
-
-
-avatar: yes
-avatar_img_path: "imgs/rsz_profile.jpg"
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
-#avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
-
-
-front_img: no
-front_img_path: "imgs/bg.jpg"
-#front_img_path: "https://external.url/image.jpg"
-
-
-favicon_img: yes
-favicon_img_path: "imgs/favicon.jpg"
-#favicon_img_path: "https://external.url/favicon.ico"
-
+#github_username:  lorem_ipsum
+#gplus_username:  lorem_ipsum
+#disqus_username: lorem_ipsum
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  #- title: Tags
+  #  url: /tags
+  - title: About Me
+    url: /about
+  #- title: Series
+  #  url: /series
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
