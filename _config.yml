@@ -2,13 +2,13 @@
 title: Arvind Kamal
 description: Arvind Kamal
 baseurl: "" # "/will-jekyll-template" - the subpath of your site, e.g. /blog
-url: "https://willianjusten.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://arvindkamal.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Arvind Kamal
 user_description: Engineer. Photographer. Shooter.
 user_title: Engineer. Photographer. Shooter.
-email: arvindkamal97@gmail.com
+email: reach.arvind.kamal@gmail.com
 twitter_username: thearvindkamal
 dpost_username: arvindkamal
 linkedin_username: arkamal
@@ -34,8 +34,8 @@ compress_html:
 links:
   - title: Home
     url: /
-  #- title: Tags
-  #  url: /tags
+  - title: Tags
+    url: /tags
   - title: About Me
     url: /about
   #- title: Series
@@ -43,3 +43,4 @@ links:
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+future: true
