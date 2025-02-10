@@ -34,8 +34,8 @@ compress_html:
 links:
   - title: Home
     url: /
-  #- title: Tags
-  #  url: /tags
+  - title: Tags
+    url: /tags
   - title: About Me
     url: /about
   #- title: Series
@@ -43,3 +43,4 @@ links:
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+future: true

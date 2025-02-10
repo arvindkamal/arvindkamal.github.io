@@ -5,9 +5,21 @@
     <description>Arvind Kamal</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Feb 2025 21:38:10 +0530</pubDate>
-    <lastBuildDate>Sat, 08 Feb 2025 21:38:10 +0530</lastBuildDate>
+    <pubDate>Mon, 10 Feb 2025 23:12:47 +0530</pubDate>
+    <lastBuildDate>Mon, 10 Feb 2025 23:12:47 +0530</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Thoughts To Text</title>
+        <description>&lt;p&gt;Ever had an idea sit in the back of your mind for so long it practically gathered dust? That was me with blogging - something I’d toyed with for years but never acted on. Then, during a train ride, while chatting with my friend Taylor (a seasoned blogger &lt;a href=&quot;https://www.instagram.com/taylorchuich/&quot;&gt;herself&lt;/a&gt;) about life beyond work, the topic came up. I mentioned my ever-growing backlog of ideas with nowhere to put them. Taylor, ever the enabler of creative pursuits, casually asked, “So why not start a blog? As someone who’s been blogging for years, I can tell you - you’re already doing...</description>
+        <pubDate>Mon, 10 Feb 2025 23:29:14 +0530</pubDate>
+        <link>http://localhost:4000/thoughts-to-text/</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts-to-text/</guid>
+        
+        <category>musings</category>
+        
+        
+      </item>
     
   </channel>
 </rss>
