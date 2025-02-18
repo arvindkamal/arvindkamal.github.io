@@ -1800,7 +1800,7 @@ var Zepto = (function () {
       var a = t.extend(
           {
             jsonFile:
-              "https://willianjusten.github.io/will-jekyll-template/search.json",
+              "https://arvindkamal.com/search.json",
             jsonFormat: "title,category,desc,url,date,shortdate",
             template:
               '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{date}</time></span></a></article></li>',
