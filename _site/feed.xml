@@ -5,8 +5,8 @@
     <description>Arvind Kamal</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Feb 2025 19:34:03 +0530</pubDate>
-    <lastBuildDate>Tue, 18 Feb 2025 19:34:03 +0530</lastBuildDate>
+    <pubDate>Tue, 18 Feb 2025 19:38:02 +0530</pubDate>
+    <lastBuildDate>Tue, 18 Feb 2025 19:38:02 +0530</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
     
       <item>
@@ -23,7 +23,7 @@
     
       <item>
         <title>Thoughts To Text</title>
-        <description>&lt;p&gt;Ever had an idea sit in the back of your mind for so long it practically gathered dust? That was me with blogging - something I’d toyed with for years but never acted on. Then, during a train ride, while chatting with my friend, Taylor (a seasoned blogger herself), about life beyond work, the topic came up. I mentioned my ever-growing backlog of ideas with nowhere to put them. Taylor, ever the enabler of creative pursuits, casually asked, “So why not start a blog? As someone who’s been blogging for years, I can tell you - you’re already doing the...</description>
+        <description>&lt;p&gt;Ever had an idea sit in the back of your mind for so long it practically gathered dust? That was me with blogging - something I’d toyed with for years but never acted on. Then, during a train ride, while chatting with my friend, Taylor (a seasoned blogger herself), about life beyond work, the topic came up. I mentioned my ever-growing backlog of ideas with nowhere to put them. I was casually asked, “So why not start a blog? As someone who’s been blogging for years, I can tell you - you’re already doing the hard part: overthinking. Now, just...</description>
         <pubDate>Mon, 10 Feb 2025 23:29:14 +0530</pubDate>
         <link>http://localhost:4000/thoughts-to-text/</link>
         <guid isPermaLink="true">http://localhost:4000/thoughts-to-text/</guid>
