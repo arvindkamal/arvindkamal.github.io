@@ -11,7 +11,7 @@ twitter_text:
 ---
 
 [//]: # (hook/story)
-Ever had an idea sit in the back of your mind for so long it practically gathered dust? That was me with blogging - something I’d toyed with for years but never acted on. Then, during a train ride, while chatting with my friend, Taylor (a seasoned blogger herself), about life beyond work, the topic came up. I mentioned my ever-growing backlog of ideas with nowhere to put them. Taylor, ever the enabler of creative pursuits, casually asked, “So why not start a blog? As someone who’s been blogging for years, I can tell you - you’re already doing the hard part: overthinking. Now, just write.” And just like that, what had long been a pile of tinder - half-formed ideas and good intentions - finally caught fire.
+Ever had an idea sit in the back of your mind for so long it practically gathered dust? That was me with blogging - something I’d toyed with for years but never acted on. Then, during a train ride, while chatting with my friend, Taylor (a seasoned blogger herself), about life beyond work, the topic came up. I mentioned my ever-growing backlog of ideas with nowhere to put them. I was casually asked, “So why not start a blog? As someone who’s been blogging for years, I can tell you - you’re already doing the hard part: overthinking. Now, just write.” And just like that, what had long been a pile of tinder - half-formed ideas and good intentions - finally caught fire.
 
 In this post, I want to talk about blogging, why it is worth considering, what I plan to write about, and most importantly, how this blog might just bring value to you.
 
